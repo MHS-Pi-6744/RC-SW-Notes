@@ -1,6 +1,4 @@
-# Mehville RC Outline
-
-MAINLY FOR MY OWN UNDERSTANDING AND AS A SOURCE OF SUGGESTIONS FOR ROB & TEAM
+# Mehville RC Outline - Some Sr notes from Spring 2025
 
 ## Engineering Systems 
 #### Control System

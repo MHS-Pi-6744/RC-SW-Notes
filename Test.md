@@ -1,4 +1,6 @@
-Test local server from bare repo on skandisk
+This is a temporary file with some notes by Sr as he learned how to set up and use a local git remote on a ScanDisk SSD and also a GitHub remote for backup.
+
+#### Test local server from bare repo on skandisk
 
 - line added from MHSRC7
 
