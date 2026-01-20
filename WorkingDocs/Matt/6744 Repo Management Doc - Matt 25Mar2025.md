@@ -38,9 +38,9 @@ Comp is defined as the actual Day/Days of the competition we plan to do
 - Additionally, branches should focus on one topic
 - If the objective you are doing can be split up into multiple tasks, do that
   - Ex: Make branches off of branches `f-elevator` --> `d-elevator-tuning`, `d-elevator-controls`
-    
-    > [!NOTE]
-    > `d-xxxx` should be used for something that the main developer of a branch is working on, while `e-xxxx` should be used for something a *different* developer wants to add
+
+> [!Note]
+> `d-xxxx` should be used for something that the main developer of a branch is working on, while `e-xxxx` should be used for something a *different* developer wants to add
 
 ### Comp
 
@@ -51,11 +51,9 @@ Comp is defined as the actual Day/Days of the competition we plan to do
   - `e-xxxx-` for extending the functionality of a branch (replace `xxxx` with the original branch name without the prefix)
 - Branches should still focus on one topic
   - Ex: `hfr-tuning` is good, but `hf-elevator` is not. Keep things separated and organized if possible
-    
-    > [!NOTE]
-    > `d-xxxx` should be used for something that the main developer of a branch is working on, while `e-xxxx` should be used for something a *different* developer wants to add
-    
-    `
+
+> [!NOTE]
+> `d-xxxx` should be used for something that the main developer of a branch is working on, while `e-xxxx` should be used for something a *different* developer wants to add
 
 ## Development Branch
 
