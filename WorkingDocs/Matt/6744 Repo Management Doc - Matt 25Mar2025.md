@@ -1,5 +1,3 @@
-#  6744 Repo Management Doc - Matt 25Mar2025
-
 A quick draft of how I think Mehlville RC's Robot Code Repo's should be handled in the season
 
 > [!IMPORTANT]
